@@ -1,0 +1,39 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body{
+    background: #b5b1f2;
+    
+  }
+  .form input[type="number"] {
+    width: 200px;
+  }
+
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
+  #main-header{
+    background-color: black;
+    margin: 0;
+   }
+   ul{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 1.5em;
+    list-style-type: none;
+   }
+   li a{
+    color: #fff;
+    text-decoration: none;
+   }
+  
+   main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   }
+
+   
